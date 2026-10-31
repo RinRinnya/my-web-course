@@ -3,4 +3,4 @@
 Також додано список визначень, зображення з альтернативним текстом і підписом. Документ має правильну структуру HTML5 та українську мову.
 
 Посилання:
-https://rinrinnya.github.io/my-web-course/hw-02/article.html 
+https://rinrinnya.github.io/my-web-course/hw-02/article.html
