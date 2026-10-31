@@ -1,0 +1,13 @@
+{
+  "name": "my-web-course",
+  "version": "1.0.0",
+  "description": "Мої домашні завдання з курсу веброзробки",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "keywords": [],
+  "author": "RinRinnya",
+  "license": "ISC"
+}

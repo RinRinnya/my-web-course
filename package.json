@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
   },
   "repository": {
     "type": "git",
@@ -17,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/RinRinnya/my-web-course/issues"
   },
-  "homepage": "https://github.com/RinRinnya/my-web-course#readme"
+  "homepage": "https://github.com/RinRinnya/my-web-course#readme",
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
 }
